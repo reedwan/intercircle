@@ -1,0 +1,16 @@
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	-webkit-text-size-adjust: none;
+}
+
+.wrapper {
+	flex: 1;
+}
+
+.serif {
+	font-family: "Brawler", serif;
+	line-height: 1.7rem;
+	font-size: 1.1rem;
+}
