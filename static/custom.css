@@ -16,8 +16,8 @@ body {
 }
 
 .arrow {
-	height: 4rem;
-	margin-right: 1rem;
+	height: 3rem;
+	margin-right: 0.5rem;
 }
 
 .arrow:focus {
