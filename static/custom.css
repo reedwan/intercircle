@@ -20,6 +20,6 @@ body {
 	margin-right: 0.5rem;
 }
 
-.arrow:focus {
+.nav:focus, .arrow:focus {
 	outline:0;
 }
